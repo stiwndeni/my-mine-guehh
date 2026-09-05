@@ -46,7 +46,7 @@ col1, col2 = st.columns(2)
 with col1:
     st.image("https://lh3.googleusercontent.com/d/1dDFULv6PbVm2BEhpHkjhdQNohuoPIvNV", caption="UR EYES 🥰")
 with col2:
-    st.image("https://images.unsplash.com/photo-1522673607200-164d1b6ce486?w=500", caption="Selalu bahagia bareng kamu 💕")
+    st.image("https://lh3.googleusercontent.com/d/1cgUe7WPubZeBahGXQhcYj4_ACjaSwgnT", caption="Selalu bahagia bareng kamu 💕")
 
 st.write("---")
 
