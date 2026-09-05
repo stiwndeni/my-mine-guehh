@@ -44,7 +44,7 @@ st.write("Setiap detik bersamamu selalu jadi favoritku.")
 # Tips: Ganti URL gambar di bawah dengan foto kalian berdua
 col1, col2 = st.columns(2)
 with col1:
-    st.image("https://drive.google.com/file/d/1dDFULv6PbVm2BEhpHkjhdQNohuoPIvNV/view?usp=sharing"), caption="UR EYES 🥰")
+    st.image("https://drive.google.com/file/d/1dDFULv6PbVm2BEhpHkjhdQNohuoPIvNV/view?usp=sharing", caption="UR EYES 🥰")
 with col2:
     st.image("https://images.unsplash.com/photo-1522673607200-164d1b6ce486?w=500", caption="Selalu bahagia bareng kamu 💕")
 
